@@ -1,0 +1,22 @@
+{
+  "name": "HSE Royals \u00b7 2026 Season",
+  "short_name": "HSE Royals",
+  "description": "Hamilton Southeastern Royals 2026 football season dashboard: results, scoring trends, stat leaders, and rivals comparison.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#071f43",
+  "theme_color": "#0a3d86",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
